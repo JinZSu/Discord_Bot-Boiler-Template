@@ -24,6 +24,8 @@ Look into Cogs to see how you can make different applications
 
 	-RedditAPI.py
 		-Reddit API basically shows you how you can use simple code to connect to reddit.
+	-main.py
+		-A basic response to keywords bot
 
 # Errors:
 	-DO python -m pip install -U discord.py
